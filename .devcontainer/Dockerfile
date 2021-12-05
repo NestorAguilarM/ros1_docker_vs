@@ -1,3 +1,9 @@
+#--------------------------------------------------------------------------------------------
+#
+# Nestor.aguilar@kiwibot.com
+#
+#----------------------------------------------------------------------------------------------
+
 FROM althack/ros2:foxy-dev 
 
 # ** [Optional] Uncomment this section to install additional packages. **
